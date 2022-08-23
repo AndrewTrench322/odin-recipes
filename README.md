@@ -1,1 +1,3 @@
 # odin-recipes
+In this project, I created a simple website that has links to recipes. The three recipes are for chili, burgers, and chicken parm. In each recipe's webpage there is an image of the food item, a description of what it is, a list of ingredients, and instructions on how to prepare the dish. 
+For git, I learned how to add, commit, and push files to github. For html, I learned how to create and format an html file correctly, how to add links and images to a webpage, and used the following tags: <ul>, <ol>, <li>, <title>, and <h#>.
